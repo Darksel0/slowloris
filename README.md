@@ -1,4 +1,4 @@
-# vafter few ads can use tool easy my ddos tool privat and very powerfull  but 100% free
+# after few ads can use tool easy my ddos tool privat and very powerfull  but 100% free
 # powerfull exploit  ddos attack web version js+html can down any website pls dont attack gov website
 To test the security of your website in a powerfull attack, please do not use it for illegal activities and malicious attacks
 exploit ddos attack work with all webserver work in browser use vps browser for powerfull attack
