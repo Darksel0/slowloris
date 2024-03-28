@@ -1,5 +1,5 @@
 # see this video how use tool in video i use china vps with 40 mgb speed https://github.com/Darksel0/slowloris/blob/main/bandicam%202024-03-28%2012-48-22-073.mp4
-usage: open this ddos tool in vps browser https://darksel0.github.io/slowloris/ put website and click start attack
+# usage: open this ddos tool in vps browser https://darksel0.github.io/slowloris/ put website and click start attack
 # after few ads can use tool easy my ddos tool private and very powerfull  but 100% free
 # This is a powerful Slowloris attack script that utilizes the XMLHttpRequest object to keep multiple connections open to a target server. The attack sends small payloads at a high frequency to exhaust the server's resources and keep the connection open. The attack can be started and stopped using the provided buttons on the webpage.
 
